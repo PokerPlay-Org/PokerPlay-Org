@@ -3,7 +3,7 @@
 Cette organisation contient : 
 - Le code source du site [pokerplay.fr](https://pokerplay.fr)
 - La documentation et le code source du langage [discord](https://discord.js.org)
-## <a href="https://pokerplay.fr"><img src="https://pokerplay.fr/images/logo.jpeg" alt="pokerplay.fr" width="200"/></a>
+## <a href="https://pokerplay.fr"><img src="https://pokerplay.fr/image/logo.jpeg" alt="pokerplay.fr" width="200"/></a>
 
 [![Statut déploiement](https://github.com/betagouv/pokerplay-org/actions/workflows/deploy.yaml/badge.svg?branch=master)](https://github.com/betagouv/pokerplay-org/actions/workflows/deploy.yaml?query=branch%3Amaster++)&nbsp;
 [![Statut test](https://github.com/betagouv/pokerplay-org/actions/workflows/test.yaml/badge.svg?branch=master)](https://github.com/betagouv/pokerplay-org/actions/workflows/test.yaml?query=branch%3Amaster++)
